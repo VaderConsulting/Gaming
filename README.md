@@ -22,6 +22,10 @@ VB.NET 3.5 WinForms sketch (`Form Test`) whose mouse-move handler computes angle
 
 Open `Gaming.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft
