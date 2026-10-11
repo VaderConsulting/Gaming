@@ -1,6 +1,6 @@
 # Gaming
 
-VB.NET 3.5 WinForms sketch (`Form Test`) whose mouse-move handler computes angle and distance between `lblPlayer` and `lblEnemy` (`CalculatePointAngle` via Atan2, `CalculatePointDistance`) and draws a RoyalBlue heading line. The `AI` class library is an empty `Class1` stub. Open `Gaming.sln` (VS 2008). This is a historical working copy from Dave Robinson / VaderConsulting.
+VB.NET 3.5 WinForms sketch (`Form Test`) whose mouse-move handler computes angle and distance between `lblPlayer` and `lblEnemy` (`CalculatePointAngle` via Atan2, `CalculatePointDistance`) and draws a RoyalBlue heading line. The `AI` class library is an empty `Class1` stub. Open `Gaming.sln` (VS 2008). This is a historical working copy from Dave Robinson / Vader Consulting.
 
 **Source last updated:** 2010-02-11  
 **Language:** VB.NET  
@@ -9,7 +9,7 @@ VB.NET 3.5 WinForms sketch (`Form Test`) whose mouse-move handler computes angle
 
 ## What it is
 
-VB.NET 3.5 WinForms sketch (`Form Test`) whose mouse-move handler computes angle and distance between `lblPlayer` and `lblEnemy` (`CalculatePointAngle` via Atan2, `CalculatePointDistance`) and draws a RoyalBlue heading line. The `AI` class library is an empty `Class1` stub. Open `Gaming.sln` (VS 2008). This is a historical working copy from Dave Robinson / VaderConsulting.
+VB.NET 3.5 WinForms sketch (`Form Test`) whose mouse-move handler computes angle and distance between `lblPlayer` and `lblEnemy` (`CalculatePointAngle` via Atan2, `CalculatePointDistance`) and draws a RoyalBlue heading line. The `AI` class library is an empty `Class1` stub. Open `Gaming.sln` (VS 2008). This is a historical working copy from Dave Robinson / Vader Consulting.
 
 ## Solution structure
 
